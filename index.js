@@ -16,4 +16,10 @@ app.get("/categories", (req, res) => {
   res.send(courseCat);
 });
 
+app.get("/course/:id", (req, res) => {
+  const id = req.params.id;
+  const content = courseContent.find((currContent) => currContent.id === id);
+
+  res.send(content);
+});
 app.listen(5000, () => console.log("YAAY!! server is running at 5000"));
