@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 const courseContent = require("./data/course.json");
+const courseCat = require("./data/courseCategories.json");
 
 app.use(cors());
 
