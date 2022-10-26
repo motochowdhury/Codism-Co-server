@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "title": "Machine Learning",
+    "img": "https://www.techfunnel.com/wp-content/uploads/2020/12/machine-learning-vs-deep-learning.png"
+  },
+  {
+    "id": "02",
+    "title": "Data Structure and Algorithm",
+    "img": "https://miro.medium.com/max/1400/1*-EFdnPuVrwUOmYte11v0OA.png"
+  },
+  {
+    "id": "03",
+    "title": "Data Structure and Algorithm",
+    "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg"
+  },
+  {
+    "id": "04",
+    "title": "Learn Python From Googler",
+    "img": "https://www.mytaskpanel.com/wp-content/uploads/2021/05/2021-05-14-1.webp"
+  },
+  {
+    "id": "05",
+    "title": "Cyber Security",
+    "img": "https://www.caplinked.com/wp-content/uploads/why-is-cybersecurity-important.jpg"
+  },
+  {
+    "id": "06",
+    "title": "Web Development",
+    "img": "https://mechomotive.com/wp-content/uploads/2021/08/Artificial-Intelligence-5.jpg"
+  }
+]

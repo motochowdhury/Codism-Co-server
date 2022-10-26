@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "title": "Machine Learning",
+    "desc": "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.",
+    "img": "https://www.techfunnel.com/wp-content/uploads/2020/12/machine-learning-vs-deep-learning.png"
+  },
+  {
+    "id": "02",
+    "title": "Data Structure and Algorithm",
+    "desc": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.A computer program is a collection of instructions to perform a specific task. For this, a computer program may need to store data, retrieve data, and perform computations on the data.",
+    "img": "https://miro.medium.com/max/1400/1*-EFdnPuVrwUOmYte11v0OA.png"
+  },
+  {
+    "id": "03",
+    "title": "Data Structure and Algorithm",
+    "desc": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.",
+    "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg"
+  },
+  {
+    "id": "04",
+    "title": "Learn Python From Googler",
+    "desc": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+    "img": "https://www.mytaskpanel.com/wp-content/uploads/2021/05/2021-05-14-1.webp"
+  },
+  {
+    "id": "05",
+    "title": "Cyber Security",
+    "desc": "A cyber security threat is a type of threat that targets computer networks, systems, and user data. These threats can come in the form of malware, phishing, and other malicious activity.A cyber security threat is a type of threat that targets computer networks, systems, and user data. These threats can come in the form of malware, phishing, and other malicious activity.",
+    "img": "https://www.caplinked.com/wp-content/uploads/why-is-cybersecurity-important.jpg"
+  },
+  {
+    "id": "06",
+    "title": "Web Development",
+    "desc": "Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websites and web applications that run online on a browser. It may, however, also include web design, web programming, and database management.Web development is closely related to the job of designing the features and functionality of apps (web design). The term development is usually reserved for the actual construction of these things (that is to say, the programming of sites).",
+    "img": "https://mechomotive.com/wp-content/uploads/2021/08/Artificial-Intelligence-5.jpg"
+  }
+]
