@@ -3,6 +3,7 @@ const app = express();
 const cors = require("cors");
 const courseContent = require("./data/course.json");
 const courseCat = require("./data/courseCategories.json");
+const blogs = require("./data/blogs.json");
 
 app.use(cors());
 
@@ -21,5 +22,9 @@ app.get("/course/:id", (req, res) => {
   const content = courseContent.find((currContent) => currContent.id === id);
 
   res.send(content);
+});
+
+app.get("/blogs", (req, res) => {
+  res.send(blogs);
 });
 app.listen(5000, () => console.log("YAAY!! server is running at 5000"));
