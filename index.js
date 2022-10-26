@@ -12,4 +12,8 @@ app.get("/", (req, res) => {
   );
 });
 
+app.get("/categories", (req, res) => {
+  res.send(courseCat);
+});
+
 app.listen(5000, () => console.log("YAAY!! server is running at 5000"));
