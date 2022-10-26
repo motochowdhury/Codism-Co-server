@@ -21,6 +21,6 @@
     "id": "04",
     "title": "What is Node? How does Node work?",
     "desc": "Node is javascript runtime environment. which exicute the code in server side, Node.js accepts the request from the clients and sends the response, node.js works in tow types of thread (ayncronus and non-blocking). Node.js is built on the V8 JavaScript engine, which is used to compile and execute JavaScript source code. So when you execute a JS script using Node.js, that code is initially passed to the V8 JavaScript engine.",
-    "img": "https://portswigger.net/cms/images/70/79/895d-article-200624-nodejs-body-text.png"
+    "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777184/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png"
   }
 ]
