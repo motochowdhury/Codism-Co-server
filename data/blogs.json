@@ -2,21 +2,25 @@
   {
     "id": "01",
     "title": "What is cors?",
-    "desc": "The full form of Cors is (Cross-Origin Resource Sharing (CORS)) Cors is a machanism that allows websites one URL to request data from diffrent URL, CORS is a security standard implemented by browsers that enable scripts running in browsers to access resources located outside of the browser’s domain.if requested origin did not macth with requested origin browser will not give you permission for accessing data, that time you could use CORS (Cross-Origin Resource Sharing)"
+    "desc": "The full form of Cors is (Cross-Origin Resource Sharing (CORS)) Cors is a machanism that allows websites one URL to request data from diffrent URL, CORS is a security standard implemented by browsers that enable scripts running in browsers to access resources located outside of the browser’s domain.if requested origin did not macth with requested origin browser will not give you permission for accessing data, that time you could use CORS (Cross-Origin Resource Sharing)",
+    "img": "https://i.ytimg.com/vi/t5FBwq-kudw/maxresdefault.jpg"
   },
   {
     "id": "02",
     "title": "Why are you using firebase? What other options do you have to implement authentication?",
-    "desc": "Firebase is a products of Google which provide us high Security from Googles experienced expers, that's why we can trust firebase because it's maintain via Google. if we develop an authentication system then it can be accessable for Hacker. Which can be very dangerous for our data and website also for client. On the other hand firebase provide us flexiblity we can host our site at firebase at free of cost. finally i must say firebase is more then secured then our own build authentication system that's why i use firebase.there is lot's of alternative systems of firebase. some famous authentication system is-- (AuthO, MongoDb, Okta, Amazon Cognito) etc"
+    "desc": "Firebase is a products of Google which provide us high Security from Googles experienced expers, that's why we can trust firebase because it's maintain via Google. if we develop an authentication system then it can be accessable for Hacker. Which can be very dangerous for our data and website also for client. On the other hand firebase provide us flexiblity we can host our site at firebase at free of cost. finally i must say firebase is more then secured then our own build authentication system that's why i use firebase.there is lot's of alternative systems of firebase. some famous authentication system is-- (AuthO, MongoDb, Okta, Amazon Cognito) etc",
+    "img": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/firebase-logo-icon.png?fit=1200%2C600&ssl=1"
   },
   {
     "id": "03",
     "title": "How does the private route work?",
-    "desc": "Private route componet render child componets, if user loged in then private route components conditionally return child componets. if user not logen in then it will rediret to login page throught navigate when hit any protected routes then Private route set the location at a state which redirect to the existing route before loged in."
+    "desc": "Private route componet render child componets, if user loged in then private route components conditionally return child componets. if user not logen in then it will rediret to login page throught navigate when hit any protected routes then Private route set the location at a state which redirect to the existing route before loged in.",
+    "img": "https://miro.medium.com/max/1080/1*Z3KL8VZdP7bcmEy9YsZGKg.png"
   },
   {
     "id": "04",
     "title": "What is Node? How does Node work?",
-    "desc": "Node is javascript runtime environment. which exicute the code in server side, Node.js accepts the request from the clients and sends the response, node.js works in tow types of thread (ayncronus and non-blocking). Node.js is built on the V8 JavaScript engine, which is used to compile and execute JavaScript source code. So when you execute a JS script using Node.js, that code is initially passed to the V8 JavaScript engine."
+    "desc": "Node is javascript runtime environment. which exicute the code in server side, Node.js accepts the request from the clients and sends the response, node.js works in tow types of thread (ayncronus and non-blocking). Node.js is built on the V8 JavaScript engine, which is used to compile and execute JavaScript source code. So when you execute a JS script using Node.js, that code is initially passed to the V8 JavaScript engine.",
+    "img": "https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique"
   }
 ]
